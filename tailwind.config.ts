@@ -11,6 +11,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        custom: {
+          light: "#F4F2F3", // Light gray
+          lavender: "#C0A9BD", // Lavender color
+          slate: "#94A7AE",   // Slate blue/gray
+          moss: "#64766A",    // Moss green
+        },
       },
     },
   },
